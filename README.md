@@ -1,3 +1,3 @@
 # ReduxCode
 
-Companion repo for a course on Udemy!
+Redux feature demo. Several sample projects.
